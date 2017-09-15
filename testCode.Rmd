@@ -11,6 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 To do: 
 - fix the directories and make sure the packages are uploading. 
+- doing some online editing - test
 
 Instal packages 
 ```{r Packages}
